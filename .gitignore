@@ -1,0 +1,18 @@
+# Only the steno keyboard is tracked; everything else in this folder is ignored.
+/*
+!/.gitignore
+!/README.md
+!/Steno_Board/
+!/Free_Coding_Project/
+
+# KiCad: local history, restore backups, lock files, per-user settings, caches
+Steno_Board/.history/
+Steno_Board/_restore_backup_*/
+*.lck
+*.kicad_prl
+*-backups/
+fp-info-cache
+
+# Python
+.venv/
+__pycache__/
