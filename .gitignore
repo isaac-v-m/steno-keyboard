@@ -13,6 +13,12 @@ Steno_Board/_restore_backup_*/
 *-backups/
 fp-info-cache
 
+# Fabrication outputs (Gerbers, drill files, job files and their zips)
+*.gbr
+*.drl
+*.gbrjob
+Steno_Board/*.zip
+
 # Python
 .venv/
 __pycache__/
