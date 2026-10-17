@@ -1,7 +1,9 @@
-# Steno Keyboard
+﻿# Steno Keyboard
 
 A 26-key phonetic steno keyboard: 10 keys per hand plus 6 thumb keys, an Arduino
 Pro Micro, and a 128x32 I2C OLED.
+
+![3D render of the PCB](Steno_Board/images/pcb-3d-render.png)
 
 ## Contents
 
